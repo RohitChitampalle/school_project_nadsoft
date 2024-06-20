@@ -1,0 +1,19 @@
+{
+  "name": "school_project_nadsoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohitChitampalle/school_project_nadsoft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohitChitampalle/school_project_nadsoft/issues"
+  },
+  "homepage": "https://github.com/RohitChitampalle/school_project_nadsoft#readme"
+}
